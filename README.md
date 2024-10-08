@@ -58,10 +58,10 @@ The following steps were performed to clean and prepare the dataset:
 To run the data cleaning process, ensure you have Python and Pandas installed. You can execute the script with the following command:
 
 ```bash
-python data_cleaning.py
+python data_cleaning.ipynb
 ```
 
-Make sure to replace `data_cleaning.py` with the actual name of your script file.
+Make sure to replace `data_cleaning.ipynb` with the actual name of your script file.
 
 ## Conclusion
 
